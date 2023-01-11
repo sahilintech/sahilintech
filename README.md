@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Chauhan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw3dmVxuo173KuXswc9tZWp_&ust=1673516403759000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDtsMmcv_wCFQAAAAAdAAAAABAg">
+<img align="right" alt="coding" width="400px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <a href="https://twitter.com/sahilintech" target="blank"><img src="https://img.shields.io/twitter/follow/sahilintech?logo=twitter&style=for-the-badge" alt="sahilintech" /></a> </p>
 
