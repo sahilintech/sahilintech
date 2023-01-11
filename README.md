@@ -1,6 +1,9 @@
-/*![logo](link)*/
 <h1 align="center">Hi 👋, I'm Sahil Chauhan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Full+Stack+Developer;Connect+With+Me&center=true" alt="Typing SVG">
+</p>
+<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
+
 
 <img align="right" alt="coding" width="400px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -28,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilintech&show_icons=true&theme=tokyonight&locale=en" alt="sahilintech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilintech&" alt="sahilintech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilintech&theme=tokyonight&" alt="sahilintech" /></p>
