@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilintech" target="blank"><img src="https://img.shields.io/twitter/follow/sahilintech?logo=twitter&style=for-the-badge" alt="sahilintech" /></a> </p>
 
-- 🌱 I’m currently learning **Solidiy**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **react, dsa and blockchain.**
 
