@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sahilintech@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1elCTURtDeuQ6biAUgxSEzxvBRRQGu8ck/view?usp=sharing](https://drive.google.com/file/d/1elCTURtDeuQ6biAUgxSEzxvBRRQGu8ck/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/getMyResume](https://bit.ly/getMyResume)
 
 - ⚡ Fun fact **I prefer twitter over linkedin.**
 
