@@ -4,7 +4,7 @@
 </p>
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 
-<img align="right" alt="coding" width="400px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="375px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <a href="https://twitter.com/sahilintech" target="blank"><img src="https://img.shields.io/twitter/follow/sahilintech?logo=twitter&style=for-the-badge" alt="sahilintech" /></a> </p>
 
