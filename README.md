@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="375px" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <a href="https://twitter.com/sahilintech" target="blank"><img src="https://img.shields.io/twitter/follow/sahilintech?logo=twitter&style=for-the-badge" alt="sahilintech" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sahilintech" target="_blank"><img src="https://img.shields.io/twitter/follow/sahilintech?logo=twitter&style=for-the-badge" alt="sahilintech" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity**
 
@@ -14,13 +14,13 @@
 
 - 📫 How to reach me **sahilintech@outlook.com**
 
-- 📄 Know about my experiences [https://bit.ly/getMyResume](https://bit.ly/getMyResume)
+- 📄 Know about my experiences <a href="https://bit.ly/getMyResume" target="_blank">here</a>
 
 - ⚡ Fun fact **I prefer twitter over linkedin.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/sahilintech">
+ <a href="https://twitter.com/sahilintech" target="_blank">
  <img src="https://img.shields.io/badge/-sahilintech-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sahilintech"/>
 </a>
 </p>
