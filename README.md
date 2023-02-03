@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sahilintech@outlook.com**
 
-- 📄 Know about my experiences <a href="https://bit.ly/getMyResume" target="_blank">here</a>
+- 📄 Know about my experiences <a href="https://bit.ly/getMyResume" target="_blank">**here**</a>
 
 - ⚡ Fun fact **I prefer twitter over linkedin.**
 
