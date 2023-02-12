@@ -1,4 +1,4 @@
-<!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahilintech.sahilintech) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahilintech.sahilintech)
 <h1 align="center">Hi 👋, I'm Sahil Chauhan</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Full+Stack+Developer;Connect+With+Me&center=true" alt="Typing SVG">
